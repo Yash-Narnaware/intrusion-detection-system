@@ -56,6 +56,6 @@ The project follows this general flow:
    - Split the data into training, validation, and test sets.
    - Handle class imbalance using oversampling and undersampling.
    - Add a subset of attack instances to the validation dataset.
-3. **Model Training & Evaluation**: The model training and evaluation are handled in a Jupyter Notebook (`model_training.ipynb`), where the LSTM model is trained on the preprocessed sequences.
+3. **Model Training & Evaluation**: The model training and evaluation are handled in a Jupyter Notebook (`PGSL_project_LSTM_based_IDS.ipynb`), where the LSTM model is trained on the preprocessed sequences.
 
 
